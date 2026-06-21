@@ -1,8 +1,6 @@
-Team Project Repository 
-Version Control Experiment 
-Module 1 Completed 
-
 Team Project Repository
 Version Control Experiment
 
 Main Branch Updated
+Module 1 Completed
+Module 2 Completed
